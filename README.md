@@ -39,7 +39,6 @@ time-tracker-extension/
 ```
 
 ---
-
 ## 🖼️ Screenshots
 
 You can place extension screenshots in the `screenshot/` folder and include them here:
