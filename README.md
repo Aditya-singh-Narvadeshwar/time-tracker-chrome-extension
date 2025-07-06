@@ -38,14 +38,6 @@ time-tracker-extension/
 └── README.md
 ```
 
----
-## 🖼️ Screenshots
-
-You can place extension screenshots in the `screenshot/` folder and include them here:
-
-![Extension Preview](screenshot/extension-preview.png)
-
----
 
 ## 📦 Installation
 
